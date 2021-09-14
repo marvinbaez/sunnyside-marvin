@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-display: optional;
+  font-family: 'Barlow', sans-serif;
+  line-height: 1;
+  color: hsl(232, 10%, 55%);
+}
+
+.heading-primary {
+  font-family: 'Fraunces', serif;
+  font-size: 5rem;
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+  color: #fff;
+  margin-top: 5rem;
+}
+
+.heading-secondary {
+  font-family: 'Fraunces', serif;
+  font-size: 4rem;
+  color: hsl(212, 27%, 19%);
+  max-width: 40rem;
+}
+
+.heading-tertiary {
+  font-family: 'Fraunces', serif;
+  font-size: 3rem;
+}
